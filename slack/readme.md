@@ -6,5 +6,9 @@
 /feed subscribe [feed address] 
 
 /feed list
+
+/feed remove [ID number] 
+
+/feed help
 ```
 

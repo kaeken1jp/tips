@@ -6,11 +6,18 @@
 
 # リスニングセクション
 
-## 設問を森と木に区別
+## Part2
+
+![](https://i.gyazo.com/69ec262e41a51976734734c02633789e.png)
+
+
+
+## Part3/4 設問を森と木に区別
 
 ![](https://i.gyazo.com/a916e5b86f6f64e9cc031d3a0e7b8d08.png)
 
 ![](https://i.gyazo.com/945eb5d2bfc955c59fcc877c5d851b8b.png)
+
 
 # リーディングセクション
 

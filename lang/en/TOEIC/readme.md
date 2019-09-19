@@ -37,6 +37,19 @@
 ![](https://i.gyazo.com/bdb36c2dc4944f905c0ebc85596f76e6.png)
 
 
+## 2-4 Yes/No疑問文
+
+![](https://i.gyazo.com/9c80b9a7e77d4cb214a6e4d7d2ee00c9.png)
+
+![](https://i.gyazo.com/d7a0182a82c6524beaae0876ed19842b.png)
+
+
+## 2-5 平叙文
+
+![](https://i.gyazo.com/7bd77b0d6379bf7081e41848cdda6ebf.png)
+
+![](https://i.gyazo.com/e09de5b9cc0346771a6371b5e361e719.png)
+
 # Part3/4 設問を森と木に区別
 
 ![](https://i.gyazo.com/a916e5b86f6f64e9cc031d3a0e7b8d08.png)

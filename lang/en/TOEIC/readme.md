@@ -50,6 +50,15 @@
 
 ![](https://i.gyazo.com/e09de5b9cc0346771a6371b5e361e719.png)
 
+
+## 2-6 選択疑問文
+
+![](https://i.gyazo.com/47cdd6acfe72206258e6b75da96c5f7c.png)
+
+![](https://i.gyazo.com/663459dffe0509e2b29661ec715a6fbe.png)
+
+
+
 # Part3/4 設問を森と木に区別
 
 ![](https://i.gyazo.com/a916e5b86f6f64e9cc031d3a0e7b8d08.png)

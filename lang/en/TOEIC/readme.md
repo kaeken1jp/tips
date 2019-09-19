@@ -10,6 +10,9 @@
 
 ![](https://i.gyazo.com/69ec262e41a51976734734c02633789e.png)
 
+![](https://i.gyazo.com/3150b73adf35c54c0bcd702308d4315a.png)
+
+
 
 
 ## Part3/4 設問を森と木に区別

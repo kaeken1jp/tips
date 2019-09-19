@@ -11,16 +11,32 @@
 ## Part 3　設問を「森」と「木」に分ける
 ## Part 4　マークシートは塗らない!
 
-## Part2
+# Part2
+
+## 2-1 キーワードを避ける
 
 ![](https://i.gyazo.com/69ec262e41a51976734734c02633789e.png)
 
 ![](https://i.gyazo.com/3150b73adf35c54c0bcd702308d4315a.png)
 
+![](https://i.gyazo.com/4ee390dd87f81079a38b9a2e687b1838.png)
 
 
 
-## Part3/4 設問を森と木に区別
+## 2-2 WH疑問文
+
+![](https://i.gyazo.com/648bb51f1774ae978e7c5391f1419fdb.png)
+
+![](https://i.gyazo.com/314cb67f5ea9901521ad88940659d314.png)
+
+
+## 2-3 質問でない疑問文
+
+![](https://i.gyazo.com/15ab569b5db1660c4163a321c090dfce.png)
+
+
+
+# Part3/4 設問を森と木に区別
 
 ![](https://i.gyazo.com/a916e5b86f6f64e9cc031d3a0e7b8d08.png)
 

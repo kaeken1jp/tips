@@ -13,9 +13,9 @@
 
 # Part2
 
-## 2-1 キーワードを避ける
-
 ![](https://i.gyazo.com/69ec262e41a51976734734c02633789e.png)
+
+## 2-1 キーワードを避ける
 
 ![](https://i.gyazo.com/3150b73adf35c54c0bcd702308d4315a.png)
 
@@ -34,6 +34,7 @@
 
 ![](https://i.gyazo.com/15ab569b5db1660c4163a321c090dfce.png)
 
+![](https://i.gyazo.com/bdb36c2dc4944f905c0ebc85596f76e6.png)
 
 
 # Part3/4 設問を森と木に区別

@@ -54,6 +54,7 @@ That's unbelievable.　（それは信じられないことですね）
 
 ## 相手の言っていることを繰り返すあいづち
 
+```
 相手　：Yesterday, I went to the hospital.
 あなた：You did?
 

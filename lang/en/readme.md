@@ -31,7 +31,7 @@
 
   - Qiitaタグ
     - https://qiita.com/tags/english
-    - https://qiita.com/tags/english
+    - https://qiita.com/tags/英語
 
 - ITリーディング
   - 

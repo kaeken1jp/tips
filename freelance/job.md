@@ -86,6 +86,32 @@
 
 ### Webデザイナー
 
+- [3DCG制作なら【TANOsim】|3Dのキャラクタや背景・映像などの作成](https://www.tanosim.co.jp/order)
+- [CREATORS MATCH](https://c-m.co.jp/)
+
+### コンサル
+
+- [フリーコンサルタント案件紹介,登録｜フリーランスコンサル募集中](https://freeconsultant.jp/)
+- [【ハイパフォコンサル】| フリーランスのコンサルタント募集・案件紹介](https://www.high-performer.jp/consultant/)
+- [フリーコンサルと企業のダイレクトマッチングサービス｜VIREC](https://virec.io/)
+- [WooGWay株式会社-インドやアフリカビジネスなど海外進出支援・ITコンサルティング](http://woogway.main.jp/professional-dispatch.html)
+- [フリーランスのコンサルタント案件紹介｜Project BASE（プロジェクトベース）](https://projectbase.jp/)
+- [株式会社 Wuuzy (ウージー)](https://www.wuuzy.jp/)
+
+### 顧問
+
+- [顧問名鑑](https://komonmeikan.jp/)
+- [顧問・コンサルタントの活用で経営課題を解決丨i-common（アイコモン）](https://i-common.jp/)
+- [顧問の紹介・派遣｜マイナビ顧問](https://komon.mynavi-agent.jp/)
+- [DYM エグゼパート](https://exepart.jp/)
+
+### 人事
+
+- [人事・採用の複業ならコーナー｜「１人が、複数の会社で、本気で働ける社会をつくる。」人事領域の副業・複業委託の仕事を紹介](https://pws.corner-inc.co.jp/service-pw)
+- [プロリク | 副業、在宅、フリーランスのプロ・リクルーターの登録ならプロリク](http://www.prorec.biz/)
+
+
+
 
 
 

@@ -26,3 +26,19 @@ $ speedtest
 Packet Loss:     0.0%
  Result URL: https://www.speedtest.net/result/c/xxxxxxxxxxxxxxxxxxxxxxxx
 ```
+
+
+# update hosts file
+
+```sh
+sudo vi /private/etc/hosts
+```
+
+
+# How to Clear DNS Cache in macOS Mojave
+
+```sh
+sudo killall -HUP mDNSResponder; sleep 2;
+```
+
+

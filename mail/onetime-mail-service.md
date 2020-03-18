@@ -13,4 +13,4 @@
 - [クイックメール（メール確認）](http://15qm.com/?act=recv&n=1027)
 - [10 Minute Mail - Free Anonymous Temporary email - 10 Minute Mail - Free Anonymous Temporary email](https://10minutemail.com/)
 - [TrashMail - Disposable email addresses](https://trashmail.com/)
-- 
+- [Nada - temp mail - fast and free](https://getnada.com/)

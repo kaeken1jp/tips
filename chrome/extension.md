@@ -1,0 +1,1 @@
+- [Set Character Encoding - Chrome Web Store](https://chrome.google.com/webstore/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae/related)

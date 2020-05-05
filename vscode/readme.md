@@ -18,6 +18,10 @@ V8: 7.8.279.23-electron.0
 OS: Darwin x64 18.7.0
 ```
 
+# tutorial
+
+[Visual Studio Code入門 (全13回) - プログラミングならドットインストール](https://dotinstall.com/lessons/basic_vscode)
+
 # shortcut
 
 [カンニング万歳!逆引きVS Codeチートシート - Qiita](https://qiita.com/4_mio_11/items/e304809b10c400fba407)

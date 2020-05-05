@@ -18,3 +18,12 @@ V8: 7.8.279.23-electron.0
 OS: Darwin x64 18.7.0
 ```
 
+# shortcut
+
+[カンニング万歳!逆引きVS Codeチートシート - Qiita](https://qiita.com/4_mio_11/items/e304809b10c400fba407)
+
+[【Mac版】 VisualStudioCode キーボードショートカット - Qiita](https://qiita.com/naru0504/items/99495c4482cd158ddca8)
+
+[【Mac向け】VSCodeで必ず覚えておきたいショートカット集 - Qiita](https://qiita.com/1coin178/items/1cfa68c41a4e098ea8ae)
+
+

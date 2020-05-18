@@ -11,13 +11,17 @@
 
 ![](https://i.gyazo.com/39bce927fea71a5ced7a957b53c42826.png)
 
+- exec
+
 ```sh
 $ code .
 ```
 
 - example
 
-![](https://i.gyazo.com/646502220aeb3bb1c85682041e1aaa5d.png)
+[The Visual Studio Code command-line options](https://code.visualstudio.com/docs/editor/command-line)
+
+https://i.gyazo.com/646502220aeb3bb1c85682041e1aaa5d.png
 
 
 ## version (2020/03)

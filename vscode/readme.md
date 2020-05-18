@@ -32,7 +32,7 @@ OS: Darwin x64 18.7.0
 
 # books
 
-[徹底解説Visual Studio Code | 本間咲来 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07YD6VFSK)
+## [徹底解説Visual Studio Code | 本間咲来 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07YD6VFSK)
 
 ```
 CHAPTER-01　Visual Studio Codeをはじめよう
@@ -46,6 +46,11 @@ CHAPTER-08　便利な拡張機能で開発をもっと効率化しよう
 CHAPTER-09　オリジナルの拡張機能を作ってみよう
 APPENDIX　開発時のおすすめキーボードショートカット
 ```
+
+- function
+
+![](https://i.gyazo.com/682d337d5d46ef470ec4e702d6e02725.png)
+
 
 # extensions
 

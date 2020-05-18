@@ -7,13 +7,18 @@
 
 ## install code command
 
-- path
+- path from command palette
 
 ![](https://i.gyazo.com/39bce927fea71a5ced7a957b53c42826.png)
 
 ```sh
 $ code .
 ```
+
+- example
+
+![](https://i.gyazo.com/646502220aeb3bb1c85682041e1aaa5d.png)
+
 
 ## version (2020/03)
 

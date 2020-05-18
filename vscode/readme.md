@@ -37,6 +37,11 @@ V8: 7.8.279.23-electron.0
 OS: Darwin x64 18.7.0
 ```
 
+# screen
+
+![](https://i.gyazo.com/a418960ea3a222161cbb767ee282823a.png)
+
+
 # tutorial
 
 [Visual Studio Code入門 (全13回) - プログラミングならドットインストール](https://dotinstall.com/lessons/basic_vscode)

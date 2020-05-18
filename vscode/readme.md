@@ -3,7 +3,17 @@
 
 [microsoft/vscode: Visual Studio Code](https://github.com/microsoft/vscode)
 
+# install
 
+## install code command
+
+- path
+
+![](https://i.gyazo.com/39bce927fea71a5ced7a957b53c42826.png)
+
+```sh
+$ code .
+```
 
 ## version (2020/03)
 

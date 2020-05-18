@@ -30,4 +30,23 @@ OS: Darwin x64 18.7.0
 
 [【Mac向け】VSCodeで必ず覚えておきたいショートカット集 - Qiita](https://qiita.com/1coin178/items/1cfa68c41a4e098ea8ae)
 
+# books
+
+[徹底解説Visual Studio Code | 本間咲来 | 工学 | Kindleストア | Amazon](https://www.amazon.co.jp/dp/B07YD6VFSK)
+
+```
+CHAPTER-01　Visual Studio Codeをはじめよう
+CHAPTER-02　使ってみようVS Code(Markdown／HTML／JS／CSS)
+CHAPTER-03　VS Codeでプログラミング(TypeScript／Node.js)
+CHAPTER-04　タスクとデバッグを使い倒そう！
+CHAPTER-05　Live ShareとRemote Development
+CHAPTER-06　VS Codeをもっと使いやすくカスタマイズしよう
+CHAPTER-07　Gitと連携してスマートに開発しよう
+CHAPTER-08　便利な拡張機能で開発をもっと効率化しよう
+CHAPTER-09　オリジナルの拡張機能を作ってみよう
+APPENDIX　開発時のおすすめキーボードショートカット
+```
+
+# extensions
+
 

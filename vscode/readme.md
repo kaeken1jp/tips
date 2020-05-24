@@ -76,6 +76,13 @@ APPENDIX　開発時のおすすめキーボードショートカット
 ![](https://i.gyazo.com/682d337d5d46ef470ec4e702d6e02725.png)
 
 
+# tips
+
+## コンソール Python パス 変更
+
+- [How can I change python version in Visual Studio Code? - Stack Overflow](https://stackoverflow.com/questions/48135624/how-can-i-change-python-version-in-visual-studio-code/48135838)
+
+
 # extensions
 
 

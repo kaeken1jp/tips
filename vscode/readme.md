@@ -86,3 +86,16 @@ APPENDIX　開発時のおすすめキーボードショートカット
 # extensions
 
 
+# for Java
+
+[Java in Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
+
+# for Python
+
+[Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+
+# for JavaScript
+
+[JavaScript Programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript)
+
+

@@ -12,4 +12,30 @@
 
 ![](https://i.gyazo.com/0f30661afedcd979a0b8180da94d69ff.jpg)
 
-![]()
+![](https://i.gyazo.com/138de50ed6343d30ca3e6658961991f0.png)
+
+![](https://i.gyazo.com/1bc09c52dca647dc28fd90fe511ea3ef.png)
+
+![](https://i.gyazo.com/8f8b90e8686f0e4edac783fd35dc992b.png)
+
+![](https://i.gyazo.com/87b7cd2f42434715b53709424c815d4b.png)
+
+![](https://i.gyazo.com/f303fbe3d099790cd9e0710c1c931a85.png)
+
+![](https://i.gyazo.com/de2a63827c4f18ff400244f2fef3689c.png)
+
+![](https://i.gyazo.com/76cf6d9e161c87077a9140633e6a5838.png)
+
+![](https://i.gyazo.com/957379a18d6430b19cacc0f487d3a4fc.png)
+
+![](https://i.gyazo.com/b4b25972b95ecf92543debf14f492298.png)
+
+![](https://i.gyazo.com/66aeb904d92040831ef9d520d2a50d57.png)
+
+![](https://i.gyazo.com/96eaa7cbe2532f18c1bf59b4459ca57f.png)
+
+![](https://i.gyazo.com/3a995757b488facccc40cdb8fe84f993.png)
+
+
+
+

@@ -1,3 +1,8 @@
+
+
+
+# stickies
+
 https://support.apple.com/guide/stickies/welcome/mac
 
 
@@ -94,3 +99,12 @@ All your notes are imported to Notes into the Imported Notes folder, which conta
 Delete a note
 Click the box in the top-left corner, then click Delete Note.
 ```
+
+
+# Horo - the best free timer app for Mac
+
+[Horo - the best free timer app for Mac](https://matthewpalmer.net/horo-free-timer-mac/)
+
+
+
+

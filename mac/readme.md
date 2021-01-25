@@ -41,4 +41,39 @@ sudo vi /private/etc/hosts
 sudo killall -HUP mDNSResponder; sleep 2;
 ```
 
+# List All Drives
+
+```sh
+
+$ df -H
+Filesystem      Size   Used  Avail Capacity iused      ifree %iused  Mounted on
+/dev/disk1s1    500G    11G    52G    18%  487880 4881965000    0%   /
+devfs           197k   197k     0B   100%     667          0  100%   /dev
+/dev/disk1s2    500G   435G    52G    90% 4837640 4877615240    0%   /System/Volumes/Data
+/dev/disk1s5    500G   1.1G    52G     3%       1 4882452879    0%   /private/var/vm
+map auto_home     0B     0B     0B   100%       0          0  100%   /System/Volumes/Data/home
+/dev/disk2s1    2.1T    12M   2.1T     1%      89   15999406    0%   /Volumes/Untitled
+
+$ diskutil list
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.3 GB   disk0
+   1:                        EFI EFI                     314.6 MB   disk0s1
+   2:                 Apple_APFS Container disk1         500.0 GB   disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +500.0 GB   disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD            11.0 GB    disk1s1
+   2:                APFS Volume Macintosh HD - Data     435.1 GB   disk1s2
+   3:                APFS Volume Preboot                 81.8 MB    disk1s3
+   4:                APFS Volume Recovery                535.9 MB   disk1s4
+   5:                APFS Volume VM                      1.1 GB     disk1s5
+
+/dev/disk2 (external, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *2.1 TB     disk2
+   1:               Windows_NTFS                         2.1 TB     disk2s1
+```
 

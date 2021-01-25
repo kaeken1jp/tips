@@ -77,3 +77,8 @@ $ diskutil list
    1:               Windows_NTFS                         2.1 TB     disk2s1
 ```
 
+# move to external drive
+
+```sh
+$ cd /Volumes/Untitled
+```

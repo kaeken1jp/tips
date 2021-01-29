@@ -82,3 +82,12 @@ $ diskutil list
 ```sh
 $ cd /Volumes/Untitled
 ```
+
+
+
+# Move your content to a new Mac
+
+[Move your content to a new Mac - Apple Support](https://support.apple.com/en-us/HT204350)
+
+
+

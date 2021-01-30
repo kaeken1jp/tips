@@ -90,4 +90,10 @@ $ cd /Volumes/Untitled
 [Move your content to a new Mac - Apple Support](https://support.apple.com/en-us/HT204350)
 
 
+# keyboard customizer
+
+[Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+
+
+
 

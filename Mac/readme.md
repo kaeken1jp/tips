@@ -100,6 +100,8 @@ $ cd /Volumes/Untitled
 
 ```
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
+
+Killall Finder
 ```
 
 

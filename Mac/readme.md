@@ -96,4 +96,11 @@ $ cd /Volumes/Untitled
 
 
 
+# How to prevent creation of .DS_Store files
+
+```
+defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
+```
+
+
 

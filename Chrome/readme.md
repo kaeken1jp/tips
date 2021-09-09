@@ -3,6 +3,20 @@
 - [URL Shortener for Amazon - Chrome Web Store](https://chrome.google.com/webstore/detail/url-shortener-for-amazon/ipafcflbnpkfahilfblbenfabkoaaiid?hl=en)
 
 
+# Where to find extensions installed folder for Google Chrome on Mac?
+
+```
+~/Library/Application\ Support/Google/Chrome/Default
+
+Go to chrome://extensions/, and find out the ID of an extension (32 lowercase letters) (if not done already, activate "Developer mode" first).
+
+Open the terminal, cd to the directory which is most likely a parent of your Chrome profile (if unsure, try ~ then /).
+
+Run find . -type d -iname "<EXTENSION ID HERE>", for example:
+
+find . -type d -iname jifpbeccnghkjeaalbbjmodiffmgedin
+```
+
 
 # error
 

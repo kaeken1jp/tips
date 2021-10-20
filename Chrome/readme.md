@@ -1,6 +1,8 @@
 # extension
 
-- [URL Shortener for Amazon - Chrome Web Store](https://chrome.google.com/webstore/detail/url-shortener-for-amazon/ipafcflbnpkfahilfblbenfabkoaaiid?hl=en)
+Amazon URL Shortener - Chrome Web Store
+https://chrome.google.com/webstore/detail/amazon-url-shortener/bonkcfmjkpdnieejahndognlbogaikdg
+
 
 
 # Where to find extensions installed folder for Google Chrome on Mac?

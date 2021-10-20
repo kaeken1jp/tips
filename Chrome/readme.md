@@ -2,6 +2,8 @@
 
 [Amazon URL Shortener - Chrome Web Store](https://chrome.google.com/webstore/detail/amazon-url-shortener/bonkcfmjkpdnieejahndognlbogaikdg)
 
+[Instant Data Scraper - Chrome Web Store](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
+
 
 # Where to find extensions installed folder for Google Chrome on Mac?
 

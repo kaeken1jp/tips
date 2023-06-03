@@ -90,6 +90,30 @@ $ cd /Volumes/Untitled
 [Move your content to a new Mac - Apple Support](https://support.apple.com/en-us/HT204350)
 
 
+Transferring data from an old Mac to a new one using Migration Assistant is a straightforward process. Here's a step-by-step guide on how to do it:
+
+1. Start by connecting both your old and new Macs to the same Wi-Fi network or connect them using an Ethernet cable.
+
+2. On your new Mac, go to the "Applications" folder and open the "Utilities" folder. Then, launch "Migration Assistant."
+
+3. In the Migration Assistant window that appears, select the option "From a Mac, Time Machine backup, or startup disk" and click "Continue."
+
+4. On your old Mac, open "Migration Assistant" from the "Utilities" folder. If prompted, enter your administrator password.
+
+5. In the Migration Assistant window on your old Mac, select the option "To another Mac" and click "Continue."
+
+6. You will now see a security code displayed on both Macs. Make sure the code on your new Mac matches the one on your old Mac. If they match, click "Continue."
+
+7. On your old Mac, you'll be asked to select the data you want to transfer to the new Mac. You can choose to transfer files, applications, user accounts, and other settings. Select the options you prefer and click "Continue."
+
+8. The migration process will now begin, and the data from your old Mac will be transferred to the new one. This may take some time depending on the amount of data being transferred.
+
+9. Once the migration is complete, you'll see a summary of what was transferred. Click "Quit" on both Macs to exit the Migration Assistant.
+
+10. Finally, you can disconnect the old Mac from the network and continue using your new Mac with all the transferred data.
+
+That's it! Your new Mac should now have all the data and settings from your old Mac thanks to the Migration Assistant.
+
 # keyboard customizer
 
 [Karabiner-Elements](https://karabiner-elements.pqrs.org/)

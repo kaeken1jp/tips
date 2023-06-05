@@ -1,4 +1,8 @@
-# extension
+# fav extension
+
+[Simple URL Copy - Chrome Web Store](https://chrome.google.com/webstore/detail/simple-url-copy/cefkgjbbpagcilodnhboolbppdjlplip)
+
+[GoFullPage - Full Page Screen Capture - Chrome Web Store](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 
 [Amazon URL Shortener - Chrome Web Store](https://chrome.google.com/webstore/detail/amazon-url-shortener/bonkcfmjkpdnieejahndognlbogaikdg)
 
